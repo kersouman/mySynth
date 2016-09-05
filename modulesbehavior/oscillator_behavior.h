@@ -1,0 +1,5 @@
+#ifndef DEF_OSCILLATOR_BEHAVIOR
+#define DEF_OSCILLATOR_BEHAVIOR
+
+
+#endif
