@@ -1,4 +1,4 @@
-/***************************************************************************/
+/****************************************************************************/
 /**
 * \file envelope_generator_behavior.h
 * \brief The envelope generator module behavior
@@ -10,7 +10,7 @@
 * four times: attack, decay, sustain, release.
 * This library provides the behavior of the envelope generator module.
 */
-/***************************************************************************/
+/****************************************************************************/
 
 #ifndef DEF_ENVELOPE_GENERATOR_BEHAVIOR
 #define DEF_ENVELOPE_GENERATOR_BEHAVIOR

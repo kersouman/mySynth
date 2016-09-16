@@ -1,4 +1,4 @@
-/***************************************************************************/
+/****************************************************************************/
 /**
 * \file oscillator_behavior.h
 * \brief The oscillator module behavior
@@ -10,7 +10,7 @@
 * modules.
 * This library provides the behavior of the oscillator module.
 */
-/***************************************************************************/
+/****************************************************************************/
 
 #ifndef DEF_OSCILLATOR_BEHAVIOR
 #define DEF_OSCILLATOR_BEHAVIOR
@@ -27,7 +27,7 @@ typedef struct Wave {
     * 10 for sawtooth wave
     * 11 for square wave
     */
-    unsigned long frequency : 24;
+    unsigned long frequency : 16;
     /**
     * The frequency of the signal
     */
@@ -35,6 +35,6 @@ typedef struct Wave {
     /**
     * The pusle width in case of square wave
     */
-}
+};
 
 #endif
