@@ -12,4 +12,4 @@
 */
 /****************************************************************************/
 
-#include "../headers/envelope_generator_behavior.h"
+#include "envelope_generator_behavior.h"

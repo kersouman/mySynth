@@ -12,4 +12,4 @@
 */
 /****************************************************************************/
 
-#include "../headers/oscillator_behavior.h"
+#include "oscillator_behavior.h"
