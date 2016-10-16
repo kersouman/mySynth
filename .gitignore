@@ -43,3 +43,4 @@
 # Debug files
 *.dSYM/
 *.su
+/CMakeLists.txt

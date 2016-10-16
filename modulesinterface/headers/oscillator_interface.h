@@ -1,6 +1,0 @@
-#ifndef DEF_OSCILLATOR_INTERFACE
-#define DEF_OSCILLATOR_INTERFACE
-
-
-
-#endif

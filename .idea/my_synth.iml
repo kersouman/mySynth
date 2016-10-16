@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/modulesbehavior/oscillator_behavior.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/modulesbehavior/envelope_generator_behavior.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/modulesinterface/envelope_generator_interface.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/modulesinterface/oscillator_interface.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shared_data/meta_signal.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shared_data/signal_properties.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LICENSE" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/includes/modulesbehavior/envelope_generator_behavior.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/includes/modulesbehavior/oscillator_behavior.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/includes/modulesinterface/envelope_generator_interface.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/includes/modulesinterface/oscillator_interface.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/includes/shared_data/signal_properties.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/includes/shared_data/meta_signal.h" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-redhat-linux/6.1.1/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-redhat-linux/6.1.1/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
